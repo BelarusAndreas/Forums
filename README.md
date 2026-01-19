@@ -25,4 +25,4 @@ You like this collection, so please give us a star. \
 If you want to sponsor this work so please feel free to [contact me](https://github.com/BelarusAndreas/Forums/discussions/).
 
 ### 📨 Contact
-If you miss something or you want to add some files so please feel free to [contact me](https://github.com/BelarusAndreas/Forums/discussions/).
+If you miss something so please feel free to [contact me](https://github.com/BelarusAndreas/Forums/discussions/).
