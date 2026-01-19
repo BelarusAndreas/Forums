@@ -1,9 +1,29 @@
- - [Activeboard](https://www.activeboard.com/) \
-📄 PHP \
+### Go
+
+ - [Orange Forum](https://www.goodoldweb.com/) \
+📄 Go \
+⚙️ PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ BSD 3 \
+💵 Free
+
+### Java
+
+ - [NodeBB](https://nodebb.org/) \ 
+📄 Java \
 ⚙️ SQL \
-🇺🇳 N/A \
-⚖️ Proprietär \
-💵 Paid from 6,40 $ to 99,50 $ (Cloud)
+🇺🇳 Multilingual \
+⚖️ GPL 3 \
+💵 Free
+
+ - [Syndie](https://github.com/i2p/i2p.syndie) \ 
+📄 Java \
+⚙️ SQL, MariaDB, PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ BSD / MIT \
+💵 Free
+
+### JavaScript
 
  - [Angular Forum](https://github.com/hamzahamidi/angular-forum) \ 
 📄 Typescript \
@@ -11,6 +31,30 @@
 🇺🇳 Multilingual \
 ⚖️ MIT \
 💵 Free
+
+### Perl
+
+ - [Ikonboard](https://web.archive.org/web/20160110044801/http://ikonboard.net/) \ 
+📄 Perl \
+⚙️ SQL, MariaDB \
+🇺🇳 Multilingual \
+⚖️ N/A \
+💵 Free
+
+ - [YaBB](https://yabbforumsoftware.com/) \
+📄 Perl \
+⚙️ SQL \
+🇺🇳 Deutsch, Englisch \
+⚖️ YPL (YaBB Public License) \
+💵 Free
+
+### PHP
+ - [Activeboard](https://www.activeboard.com/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 N/A \
+⚖️ Proprietär \
+💵 Paid from 6,40 $ to 99,50 $ (Cloud)
 
  - [Asgaros Forum](https://asgaros.com/) \ 
 📄 PHP \
@@ -46,20 +90,6 @@
 🇺🇳 Deutsch, Englisch \
 ⚖️ Proprietär \
 💵 Paid from 29 € to 89 €
-
- - [DiangoBB](http://djangobb.org/) \
-📄 Python \
-⚙️ SQL, SQLite, PostgreSQL, Oracle \
-🇺🇳 Multilingual \
-⚖️ BSD \
-💵 Free
-
- - [Discourse](https://www.discourse.org/) \
-📄 Ruby, JavaScript \
-⚙️ SQL \
-🇺🇳 Deutsch, Englisch \
-⚖️ GPL 2 \
-💵 Free & Paid 300 $
 
  - [Discuz!](http://www.discuz.net/forum.php) \
 📄 PHP \
@@ -103,13 +133,6 @@
 ⚖️ MIT \
 💵 Free
 
- - [FlaskBB](https://github.com/flaskbb/flaskbb) \
-📄 Python \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ BSD \
-💵 Free
-
  - [FluxBB](http://fluxbb.org/) \
 📄 PHP \
 ⚙️ SQL, SQLite \
@@ -145,13 +168,6 @@
 ⚖️ GPL 3 \
 💵 Free
 
- - [Ikonboard](https://web.archive.org/web/20160110044801/http://ikonboard.net/) \ 
-📄 Perl \
-⚙️ SQL, MariaDB \
-🇺🇳 Multilingual \
-⚖️ N/A \
-💵 Free
-
  - [Invision Power Board](https://invisioncommunity.com/) \ 
 📄 PHP \
 ⚙️ SQL, MariaDB \
@@ -180,20 +196,6 @@
 ⚖️ MIT \
 💵 Free
 
- - [LBForum](https://github.com/vicalloy/LBForum) \ 
-📄 Python \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ BSD \
-💵 Free
-
- - [Lemmy](https://join-lemmy.org/) \ 
-📄 Rust \
-⚙️ PostgreSQL \
-🇺🇳 Multilingual \
-⚖️ AGPL 3 \
-💵 Free
-
  - [MyBB](https://www.mybb.de/) \
 📄 PHP \
 ⚙️ SQL, SQLite \
@@ -208,25 +210,11 @@
 ⚖️ GPL \
 💵 Free
 
- - [NodeBB](https://nodebb.org/) \ 
-📄 Java \
-⚙️ SQL \
-🇺🇳 Multilingual \
-⚖️ GPL 3 \
-💵 Free
-
  - [NoNonsense Forum](https://camendesign.com/nononsense_forum) \ 
 📄 PHP \
 ⚙️ Flat-File \
 🇺🇳 Multilingual \
 ⚖️ CC BY 3.0 \
-💵 Free
-
- - [Orange Forum](https://www.goodoldweb.com/) \
-📄 Go \
-⚙️ PostgreSQL \
-🇺🇳 Multilingual \
-⚖️ BSD 3 \
 💵 Free
 
  - [Phorum](https://www.phorum.org/) \
@@ -278,20 +266,6 @@
 ⚖️ BSD \
 💵 Free
 
- - [Syndie](https://github.com/i2p/i2p.syndie) \ 
-📄 Java \
-⚙️ SQL, MariaDB, PostgreSQL \
-🇺🇳 Multilingual \
-⚖️ BSD / MIT \
-💵 Free
-
- - [Thredded](https://github.com/thredded/thredded) \ 
-📄 Ruby \
-⚙️ N/A \
-🇺🇳 Multilingual \
-⚖️ MIT \
-💵 Free
-
  - [Typo3 Forum](https://github.com/AgenturPottkinder/typo3_forum) \ 
 📄 PHP \
 ⚙️ SQL \
@@ -334,9 +308,50 @@
 ⚖️ Proprietär \
 💵 Paid from 60 $ to 250 $
 
- - [YaBB](https://yabbforumsoftware.com/) \
-📄 Perl \
+### Python
+
+ - [DiangoBB](http://djangobb.org/) \
+📄 Python \
+⚙️ SQL, SQLite, PostgreSQL, Oracle \
+🇺🇳 Multilingual \
+⚖️ BSD \
+💵 Free
+
+ - [FlaskBB](https://github.com/flaskbb/flaskbb) \
+📄 Python \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ BSD \
+💵 Free
+
+ - [LBForum](https://github.com/vicalloy/LBForum) \ 
+📄 Python \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ BSD \
+💵 Free
+
+### Ruby
+
+ - [Discourse](https://www.discourse.org/) \
+📄 Ruby, JavaScript \
 ⚙️ SQL \
 🇺🇳 Deutsch, Englisch \
-⚖️ YPL (YaBB Public License) \
+⚖️ GPL 2 \
+💵 Free & Paid 300 $
+
+ - [Thredded](https://github.com/thredded/thredded) \ 
+📄 Ruby \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+### Rust
+
+ - [Lemmy](https://join-lemmy.org/) \ 
+📄 Rust \
+⚙️ PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ AGPL 3 \
 💵 Free
