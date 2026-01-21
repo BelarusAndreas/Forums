@@ -1,5 +1,5 @@
 # Forums
-A list of different Forum Systems.
+A huge list of different [forum systems]([https://github.com/BelarusAndreas/Forums/discussions/](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md)) in Go, Java, JavaScript, Perl, PHP, Phyton, Ruby and Rust language.
 
 ### 🧑‍💼 Support
 For any questions feel free to start a [discussion on GitHub](https://github.com/BelarusAndreas/Forums/discussions/). 
@@ -9,7 +9,7 @@ If you have some ideas or want to add something so please start a [discussion on
 
 ### 🔩 To-Do's
 🔸Add new forums \
-🔸Add more details to any forum system
+🔸~~Add more details to any forum system~~
 
 ### ⚖️ Legal
 ✅ Use this list freely for private and commercial purposes \
