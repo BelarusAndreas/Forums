@@ -13,6 +13,7 @@ Orange Forum is an easy to deploy forum that has few dependencies. \
 ## Java
 
  - [NodeBB](https://nodebb.org/) \
+<img src="https://nodebb.org/images/desktop-view.png" width="400" height="300" />  \
 NodeBB is next generation community forum software. It's powerful, mobile-ready and easy to use. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -68,6 +69,7 @@ YaBB (Yet another Bulletin Board) is open-source message board (Internet forum) 
 
 ## PHP
  - [Activeboard](https://www.activeboard.com/) \
+<img src="https://www.sparklit.com/secure/image/forum/carousel/7.jpg" width="400" height="300" />  \
 ActiveBoard was designed to be user-friendly. It's easy to set up your forum in minutes. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -78,6 +80,7 @@ ActiveBoard was designed to be user-friendly. It's easy to set up your forum in 
 [<kbd>Homepage</kbd>](https://www.activeboard.com/) [<kbd>Forum</kbd>](https://example.activeboard.com/)
 
  - [Asgaros Forum](https://asgaros.com/) \
+<img src="https://ps.w.org/asgaros-forum/assets/screenshot-1.png?rev=2076403" width="400" height="300" />  \
 Asgaros Forum is the perfect WordPress plugin if you want to extend your website with a lightweight and feature-rich discussion board. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -88,6 +91,7 @@ Asgaros Forum is the perfect WordPress plugin if you want to extend your website
 [<kbd>Homepage</kbd>](https://asgaros.com/) [<kbd>GitHub</kbd>](https://github.com/Asgaros/asgaros-forum) [<kbd>Forum</kbd>](https://asgaros.com/support/) [<kbd>Plugins</kbd>](https://asgaros.com/support/forum/add-ons/)
 
  - [bbPress](https://wordpress.org/plugins/bbpress/) \
+<img src="https://ps.w.org/bbpress/assets/screenshot-1.png?rev=872931" width="400" height="300" />  \
 bbPress is intentionally simple yet infinitely powerful forum software, built by contributors to WordPress. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_MariaDB-blue.svg) \
@@ -118,6 +122,7 @@ A high performance open-source forum software written in PHP. Discussions Tags b
 [<kbd>Homepage</kbd>](https://www.94cb.com/) [<kbd>GitHub</kbd>](https://github.com/lincanbin/Carbon-Forum) [<kbd>Documentation</kbd>](https://github.com/lincanbin/Carbon-Forum-API-Documentation)
 
  - [CBack](https://cback.net/) \
+<img src="https://cback.net/theme/img/cf4/cf4.png" width="400" height="300" />  \
 Give your community an upgrade and discover the CF4: our powerful, independent and flexible community software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -149,6 +154,7 @@ Discuss is a powerful native forum solution for MODX Revolution. \
 [<kbd>Homepage</kbd>](https://modx.com/) [<kbd>GitHub</kbd>](https://github.com/modxcms/Discuss) [<kbd>Documentation</kbd>](https://docs.modx.com/) [<kbd>Plugins</kbd>](https://modx.com/resources/)
 
  - [Disputa](https://www.disputa.de/) \
+<img src="https://disputa.de//wp-content//uploads//2022//10//Forensoftware.png" width="400" height="300" />  \
 Forum software with PHP and without MySQL database! \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
@@ -159,6 +165,7 @@ Forum software with PHP and without MySQL database! \
 [<kbd>Homepage</kbd>](https://www.disputa.de/) [<kbd>Documentation</kbd>](https://www.disputa.de/forum-support/)
 
  - [Elkarte!](https://www.elkarte.net/) \
+<img src="https://raw.githubusercontent.com/Spuds/Elk_Theme_Integrity/master/sample_images/boardindex.jpg" width="400" height="300" />  \
 ElkArte is a modern, powerful community building forum software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,SQLite,_PostgreSQL-blue.svg) \
@@ -169,6 +176,7 @@ ElkArte is a modern, powerful community building forum software. \
 [<kbd>Homepage</kbd>](https://www.elkarte.net/) [<kbd>GitHub</kbd>](https://github.com/elkarte) [<kbd>Forum</kbd>](https://www.elkarte.net/community/) [<kbd>Plugins</kbd>](https://elkarte.github.io/addons/) [<kbd>Themes</kbd>](https://elkarte.github.io/themes/)
 
  - [Flatboard](https://flatboard.org/) \
+<img src="https://flatboard.org/themes/default/screenshot.png" width="400" height="300" />  \
 Flatboard 5 is a modern, lightweight forum platform built with PHP 8. It combines simplicity with powerful features, making it perfect for communities of all sizes. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
@@ -179,6 +187,7 @@ Flatboard 5 is a modern, lightweight forum platform built with PHP 8. It combine
 [<kbd>Homepage</kbd>](https://flatboard.org/) [<kbd>GitHub</kbd>](https://github.com/Fred89/Flatboard) [<kbd>Forum</kbd>](https://flatboard.org/forums) [<kbd>Dokumentation</kbd>](https://docs.flatboard.org/docs) [<kbd>Plugins</kbd>](https://flatboard.org/f/resources)
 
  - [Flarum](https://flarum.org/) \
+<img src="https://flarum.org/assets/flarum/home-screenshot.png" width="400" height="300" />  \
 Modern, fast & free community software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -199,6 +208,7 @@ FluxBB is a fast, light, user-friendly forum application for your website. \
 [<kbd>Homepage</kbd>](http://fluxbb.org/) [<kbd>GitHub</kbd>](https://github.com/fluxbb/fluxbb) [<kbd>Forum</kbd>](https://fluxbb.org/forums/) [<kbd>Documentation</kbd>](https://fluxbb.org/docs/v1.5) [<kbd>Plugins</kbd>](https://fluxbb.org/resources/)
 
  - [Forumium](https://devaslanphp.github.io/forumium-docs/#/) \
+<img src="https://devaslanphp.github.io/forumium-docs/_media/forumium.png" width="400" height="300" />  \
 Forumium is a simple Forum platform made with the Laravel Framework and the elegant TALLkit Filament. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite,_PostgreSQL,_MS_SQL_Server-blue.svg) \
@@ -228,7 +238,7 @@ FUDforum is a super fast and scalable discussion forum. It is highly customizabl
 \
 [<kbd>Homepage</kbd>](http://fudforum.org/) [<kbd>GitHub</kbd>](https://github.com/fudforum/FUDforum) [<kbd>Documentation</kbd>](https://github.com/fudforum/FUDforum/wiki/Installation)
 
- - [Goobs]([https://github.com/ciptard/goobbs](http://tailinchu.cu.cc/bbs)) \
+ - [Goobs](http://tailinchu.cu.cc/bbs) \
 A simple php flat-file forum. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
@@ -239,6 +249,7 @@ A simple php flat-file forum. \
 [<kbd>Homepage</kbd>](http://tailinchu.cu.cc/bbs) [<kbd>GitHub</kbd>](https://github.com/ciptard/goobbs)
 
  - [Invision Power Board](https://invisioncommunity.com/) \
+<img src="https://res.cloudinary.com/invisioncommunity/image/fetch/f_auto,w_984/https://sitecontent.invisioncommunity.com/screenshots/client-sites/desktop_corsair-dark.jpg" width="400" height="300" /> \
 Build and grow your community with our scalable and customizable community platform. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_MariaDB-blue.svg) \
@@ -249,6 +260,7 @@ Build and grow your community with our scalable and customizable community platf
 [<kbd>Homepage</kbd>](https://invisioncommunity.com/) [<kbd>Forum</kbd>](https://invisioncommunity.com/forums/) [<kbd>Documentation</kbd>](https://invisioncommunity.com/developers/) [<kbd>Themes</kbd>](https://invisioncommunity.com/innovate/customize/) 
 
  - [Kunena](https://www.kunena.org/) \
+<img src="https://www.kunena.org/components/com_ochsubscriptions/images/product-3.png" width="400" height="300" /> \
 Kunena is a native Joomla forum and communications component written in PHP. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -269,6 +281,7 @@ A slim, lean forum package designed for quick and easy integration in Laravel pr
 [<kbd>Homepage</kbd>](https://www.teamteatime.net/) [<kbd>GitHub</kbd>](https://github.com/Team-Tea-Time/laravel-forum)
 
  - [MyBB](https://www.mybb.de/) \
+<img src="https://camo.mybb.de/40bcd9e9cced4877cba300e0161539192366e14f/68747470733a2f2f636f6d6d756e6974792e6d7962622e636f6d2f75706c6f6164732f6d6f64732f70726576696577732f707265766965775f37363935385f313536373633353632325f61396133656334383538383534346665626633313861666636363064343631302e706e67" width="400" height="300" /> \
 MyBB, formerly MyBBoard and originally MyBulletinBoard, is a free and open-source forum software developed by the MyBB Group. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg) \
@@ -289,6 +302,7 @@ My little forum is a simple PHP and MySQL based internet forum software that dis
 [<kbd>Homepage</kbd>](https://mylittleforum.net/index.php) [<kbd>GitHub</kbd>](https://github.com/My-Little-Forum/mylittleforum) [<kbd>Forum</kbd>](https://mylittleforum.net/forum/)
 
  - [NoNonsense Forum](https://camendesign.com/nononsense_forum) \
+<img src="https://camendesign.com/code/nononsense_forum/add.jpg7" width="400" height="300" /> \
 NoNonsense Forum is a free, open source, PHP-based simple discussion forum. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-FlatFile-blue.svg) \
@@ -299,6 +313,7 @@ NoNonsense Forum is a free, open source, PHP-based simple discussion forum. \
 [<kbd>Homepage</kbd>](https://camendesign.com/nononsense_forum) [<kbd>GitHub</kbd>](https://github.com/Kroc/NoNonsenseForum/) [<kbd>Forum</kbd>](https://forum.camendesign.com/)
 
  - [Phorum](https://www.phorum.org/) \
+<img src="https://www.phorum.org/phorum5/file.php?63,file=5071" width="400" height="300" /> \
 Phorum was the original PHP and MySQL based Open Source forum software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -309,6 +324,7 @@ Phorum was the original PHP and MySQL based Open Source forum software. \
 [<kbd>Homepage</kbd>](https://www.phorum.org/) [<kbd>GitHub</kbd>](https://github.com/Phorum/Core) [<kbd>Forum</kbd>](https://www.phorum.org/phorum5/index.php) [<kbd>Documentation</kbd>](https://www.phorum.org/docs/html/) [<kbd>Plugins</kbd>](https://www.phorum.org/phorum5/list.php?62) [<kbd>Themes</kbd>](https://www.phorum.org/phorum5/list.php?63)
 
  - [phpBB](https://www.phpbb.com/) \
+<img src="https://www.phpbb.com/customise/db/download/163611" width="400" height="300" /> \
 phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg) \
@@ -359,6 +375,7 @@ A simple Forum. \
 [<kbd>Homepage</kbd>](https://simpleforum.org/t/47) [<kbd>GitHub</kbd>](https://github.com/yujiandong/simpleforum) 
 
  - [Simple Machines Forum](http://simplemachines.org/) \
+<img src="https://custom.simplemachines.org/index.php?action=download;theme=3025;attach=288108;image" width="400" height="300" /> \
 Simple Machines Forum — SMF in short — is free and open-source community forum software, delivering professional grade features in a package that allows you to set up your own online community within minutes! \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -399,6 +416,7 @@ Vanilla is a powerfully simple discussion forum you can easily customize to make
 [<kbd>Homepage</kbd>](https://open.vanillaforums.com/) [<kbd>GitHub</kbd>](https://github.com/vanilla) [<kbd>Forum</kbd>](https://open.vanillaforums.com/)
 
  - [vBulletin](https://www.vbulletin.com/) \
+<img src="https://www.vbulletin.com/static/version1767887689/frontend/VB/default/en_US/images/themes/theme_default.png" width="400" height="300" /> \
 Build your site on the world's leading community software. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -409,6 +427,7 @@ Build your site on the world's leading community software. \
 [<kbd>Homepage</kbd>](https://www.vbulletin.com/) [<kbd>Forum</kbd>](https://forum.vbulletin.com/) [<kbd>Documentation</kbd>](https://www.vbulletin.com/en/manual) [<kbd>Plugins</kbd>](https://www.vbulletin.com/en/add-ons) [<kbd>Themes</kbd>](https://www.vbulletin.com/en/themes)
 
  - [WoltLab](https://www.woltlab.com/) \
+<img src="https://www.woltlab.com/images/whp/apps/de-forum@2x.webp" width="400" height="300" /> \
 Build a striving community with ease. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
@@ -419,6 +438,7 @@ Build a striving community with ease. \
 [<kbd>Homepage</kbd>](https://www.woltlab.com/) [<kbd>GitHub</kbd>](https://github.com/WoltLab/) [<kbd>Forum</kbd>](https://www.woltlab.com/community/) [<kbd>Documentation</kbd>](https://manual.woltlab.com/de/) [<kbd>Plugins</kbd>](https://www.woltlab.com/pluginstore/file-list/) [<kbd>Themes</kbd>](https://www.woltlab.com/pluginstore/category-file-list/1000-stile/)
 
  - [XenForo](https://xenforo.com/) \
+<img src="https://xenforo.com/community/proxy.php?image=https%3A%2F%2Fwww.dohtheme.com%2Fcommunity%2Fattachments%2Fscreenshot-2025-09-18-at-16-07-56-9-xenforo-2-demo-png.6334%2F&hash=6f2352ab7ccb7b97ec07c1823bc8ebd3" width="400" height="300" /> \
 There is no better platform upon which to grow your community. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
