@@ -68,7 +68,6 @@ YaBB (Yet another Bulletin Board) is open-source message board (Internet forum) 
 
 ## PHP
  - [Activeboard](https://www.activeboard.com/) \
-<img src="https://www.sparklit.com/secure/image/forum/carousel/7.jpg" width="400" height="300" />  \
 ActiveBoard was designed to be user-friendly. It's easy to set up your forum in minutes. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL-blue.svg) \
