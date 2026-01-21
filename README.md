@@ -1,5 +1,5 @@
 # Forums
-A huge list of different [forum systems]([https://github.com/BelarusAndreas/Forums/discussions/](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md)) in Go, Java, JavaScript, Perl, PHP, Phyton, Ruby and Rust language.
+A huge list of different [forum systems](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md) in [Go](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#go), [Java](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#java), [JavaScript](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#javascript), [Perl](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#perl), [PHP](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#php), [Python](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#python), [Ruby](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#ruby) and [Rust](https://github.com/BelarusAndreas/Forums/blob/main/Forums.md#rust) language.
 
 ### 🧑‍💼 Support
 For any questions feel free to start a [discussion on GitHub](https://github.com/BelarusAndreas/Forums/discussions/). 
