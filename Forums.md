@@ -309,7 +309,6 @@ Phorum was the original PHP and MySQL based Open Source forum software. \
 [<kbd>Homepage</kbd>](https://www.phorum.org/) [<kbd>GitHub</kbd>](https://github.com/Phorum/Core) [<kbd>Forum</kbd>](https://www.phorum.org/phorum5/index.php) [<kbd>Documentation</kbd>](https://www.phorum.org/docs/html/) [<kbd>Plugins</kbd>](https://www.phorum.org/phorum5/list.php?62) [<kbd>Themes</kbd>](https://www.phorum.org/phorum5/list.php?63)
 
  - [phpBB](https://www.phpbb.com/) \
-<img src="https://www.phpbb.com/customise/db/download/163611" width="400" height="300" /> \
 phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. \
 \
 ![Generic badge](https://img.shields.io/badge/Database-SQL,_SQLite-blue.svg) \
